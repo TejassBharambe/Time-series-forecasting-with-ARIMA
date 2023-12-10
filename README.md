@@ -1,6 +1,6 @@
 # Time-series-forecasting-with-ARIMA
 
-##Overview
+## Overview
 This repository contains the code and data for a time series analysis and forecasting project aimed at predicting retail sales, with a specific emphasis on furniture sales from the Superstore dataset. The project utilizes various time series analysis techniques and employs the Autoregressive Integrated Moving Average (ARIMA) model for forecasting.
 
 Time series analysis is a statistical method used to analyze and interpret sequential data points collected over time. It involves extracting meaningful insights, patterns, and trends from temporal datasets. In this project, we apply time series analysis to understand and forecast retail sales, specifically focusing on the furniture category.
